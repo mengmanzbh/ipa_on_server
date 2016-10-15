@@ -17,7 +17,7 @@
            <key>metadata</key>   
            <dict>   
                <key>bundle-identifier</key>   
-               <string>com.kfb.new</string>
+               <string>com.kfb.com</string>
                <key>bundle-version</key>   
                <string>3.0.7</string>   
                <key>kind</key>   
